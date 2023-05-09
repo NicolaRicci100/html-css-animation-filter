@@ -214,15 +214,15 @@
         bottom: -10px;   
     }
     30% {
-        right: 90%;
+        right: 80%;
         bottom: -10px;
     }
     45% {
-        right: 90%;
+        right: 80%;
         bottom: 90%;
     }
     75% {
-        right: 0;
+        right: -20%;
         bottom: 90%;
     }
     90% {
